@@ -6,7 +6,10 @@ It's the practice of applying [[Engineering|engineering principles]] to solve pr
 
 ## Software's Life-cycle
 
-- **Planning**
+- **Planning/Requirements**
 - **Designing:** Where [[Software Architecture|software architecture]] is devised.
+- **Development**
+- **Testing**
+- **Maintenance**
 
 ***
