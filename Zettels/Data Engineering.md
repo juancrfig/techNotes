@@ -13,5 +13,6 @@ It's a branch of [[Engineering|engineering]] that designs *software [[System|sys
 ### Related Zettels
 
 - [[Database]]
+- [[Data Serialization]]
 
 ***
