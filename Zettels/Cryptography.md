@@ -7,8 +7,9 @@ It's a field that studies how to *secure communication*, so a *third-party* cann
 ### Tools
 
 - [[AES-GCM]]
+- [[Key Derivation Function]] (Argon2id)
 
-
+***
 
 
 
