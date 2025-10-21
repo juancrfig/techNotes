@@ -1,6 +1,6 @@
 ***
 
 It's the first [[Distributed System|decentralized]] digital currency. 
-It uses [[Cryptography]] to secure the transactions.
+It uses [[cryptography]] to secure the transactions.
 
 ***
