@@ -9,3 +9,9 @@ It's a ***statically typed*** and [[compilation|compiled]] [[programming languag
 - **Module:** The highest-level container of source  code. It's defined by the presence of the file `go.mod` at the directory's root. 
 
 ***
+
+### Algorithms to build in Go
+
+- Bubble sort
+- Binary Search
+- Merge sort

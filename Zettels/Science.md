@@ -5,5 +5,6 @@ It's the practice of following the [[scientific method]]to gather evidence to ei
 ### Branches
 
 - [[Biology]]
+- [[Computer Science]]
 
 ***

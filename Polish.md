@@ -1,6 +1,6 @@
 ***
 
-It's an ***inflected*** *[[language|human language]]*.
+It's an ***inflected*** *[[Human Languages|human language]]*.
 
 ***
 
