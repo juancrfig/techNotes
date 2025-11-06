@@ -5,3 +5,8 @@ It's mainly characterized because allows to ***organizedly retrieve*** *data* lo
 *Data* coming from outside goes under a process called **encoding**, which *translates data* so the *system* is able to understand it. 
 
 ***
+### Related Zettels
+
+- [[How Memory Works in Computers]]
+
+***

@@ -4,7 +4,3 @@ It's a a [[System|system]] that transforms [[Information|information]] by follow
 
 ***
 
-The minimal piece of ***information*** a computer can manipulate is a [[Bit|bit]]. However, in order to be able to do it, computers must address the ***bit's location*** by using a reference point called [[Byte|byte]].
-
-***
-

@@ -10,8 +10,14 @@ It's a ***statically typed*** and [[compilation|compiled]] [[programming languag
 
 ***
 
-### Algorithms to build in Go
+### Algorithms to build
 
 - Bubble sort
 - Binary Search
 - Merge sort
+
+### Data Structures
+
+- [[Linked List]]
+
+***
