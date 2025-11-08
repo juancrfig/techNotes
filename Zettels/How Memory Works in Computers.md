@@ -18,3 +18,8 @@ Finally, the modified block overwrites the previous one in the *secondary storag
 The [[CPU]]'s function is to issue the order of reading, and then computing, modifying, and overwriting the data.  
 
 ***
+### Related Zettles
+
+- [[Data Structure Alignment]]
+
+***

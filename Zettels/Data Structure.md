@@ -6,5 +6,11 @@ It's a way of storing [[Information|information]] by creating *relationships* am
 
 - [[Array]]
 - [[Linked List]]
+- [[Stacks & Queues]]
+
+***
+### Related Zettels
+
+- [[Data Structure Alignment]]
 
 ***
