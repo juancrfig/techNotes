@@ -1,6 +1,6 @@
 ***
 
-It's a ***statically typed*** and [[compilation|compiled]] [[programming language]]. 
+It's a ***statically typed***, ***call-by-value*** and [[compilation|compiled]] [[programming language]] with ***implicit interfaces***. 
 Each programs includes a small amount of extra code called the [[Go Runtime]].
 
 ***
@@ -19,6 +19,7 @@ The number at the end represents *bits*. `int` and `uint` refer to their respect
 
 - **Package:** A directory containing source files, allows organization, encapsulation and code reusability. 
 - **Module:** The highest-level container of source  code. It's defined by the presence of the file `go.mod` at the directory's root. 
+- **Interface:** It's a collection of method signatures. A type *implements* an interface if it has methods that match the interface's method signatures.
 
 ***
 
@@ -45,3 +46,11 @@ The number at the end represents *bits*. `int` and `uint` refer to their respect
 - The data type `rune` is an alias for `int32`. An *32-bits* number is big enough to represent any *Unicode* symbol. 
 
 ***
+## Syntax
+
+##### Initial Statement of an If block
+```Go
+if INITIAL_STATEMENT; CONDITION {
+	// some code
+}
+```
