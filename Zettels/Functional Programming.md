@@ -7,5 +7,5 @@ Thus, it's all about ***immutability***.
 - **Its output depend only on its inputs**
 - **It has no side effects**
 
-*Functional programming* offers massive advantages with regard to ***predictability***, ***testability***, and ***safe-concurrent behavior***.
+*Functional programming* offers massive advantages with regard to ***predictability***, ***testability***, and ***safe-[[Concurrency|concurrent]] behavior***.
 ***
