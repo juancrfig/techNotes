@@ -44,8 +44,46 @@ The number at the end represents *bits*. `int` and `uint` refer to their respect
 
 - *`const` variables must be known at compile time*.
 - The data type `rune` is an alias for `int32`. An *32-bits* number is big enough to represent any *Unicode* symbol. 
-- When **maps** and **slices** are passed as argument in a function, they are passed as ***reference***.
+- When **maps**, **slices**, and **channels** are passed as argument in a function, they are passed as ***reference***.
 - Trying to deference a *nil* pointer will cause a runtime error that crashes the program (panic). 
+- Sending and receiving to a *nil* channel blocks forever
+
+***
+#### Channels Syntax
+
+```Go
+ch := make(chan int)
+// do something
+close(ch)
+
+v, ok := <-ch
+
+```
+`ok` is false if the channel is empty **and** closed. 
+
+###### Read-only Channels
+A channel can be marked as *read-only* by casting it as a `<-chan` type.
+```Go
+func main() {
+	ch := make(chan int)
+	readCh(ch)
+}
+
+func readCh(ch <-chan int) {
+	// ch can only be read from this function
+}
+```
+###### Write-only Channels
+Here the channel is cast as `chan<-`
+```Go
+func writeCh(ch chan<- int) {
+	// ch can only be written to in this function
+}
+```
+***
+##### Mutexes
+
+They allow to lock access to data.
 
 ***
 ## Syntax
