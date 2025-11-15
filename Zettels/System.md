@@ -6,5 +6,6 @@ It's a group of [[Components & Layers|components]] with strong ***interrelations
 
 - [[Centralized System]]
 - [[Distributed System]]
+- [[Information System]]
 
 ***
