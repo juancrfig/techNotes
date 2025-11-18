@@ -15,5 +15,15 @@
 
 react vitex drupal headless nextdrupal contentDriven UI 
 
+***
+
+mock 
+
+http -> simulate request and response
+
+mock without mocking 
+
+test oracle n
 
 
+***
